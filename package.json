@@ -1,0 +1,12 @@
+{
+  "name": "GraphQlmovie",
+  "version": "1.0.0",
+  "description": "movie service wtih GraphQl",
+  "main": "index.js",
+  "repository": "https://github.com/Woongstar/GraphQlmovie.git",
+  "author": "Woongstar <woongstardev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
